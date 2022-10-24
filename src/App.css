@@ -1,0 +1,10 @@
+
+.container{
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+button{
+  position: fixed;
+  right: 2rem;
+}
